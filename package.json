@@ -5,7 +5,7 @@
   "license": "MIT",
   "devDependencies": {
     "@eslint/js": "^9.16.0",
-    "concurrently": "^9.1.0",
+    "concurrently": "^9.1.2",
     "copy-and-watch": "^0.1.8",
     "eslint": "^9.16.0",
     "globals": "^15.13.0",
